@@ -1,0 +1,2 @@
+This is Simple analysis using Artifial Neural Network.
+Artificial neural networks (ANNs), usually simply called neural networks (NNs), are computing systems vaguely inspired by the biological neural networks that constitute animal brains.
